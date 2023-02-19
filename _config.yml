@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  grupMBBucuresti
 
 # Build settings
-theme: cayman
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
